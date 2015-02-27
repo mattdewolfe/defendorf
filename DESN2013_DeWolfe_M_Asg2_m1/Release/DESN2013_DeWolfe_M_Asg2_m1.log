@@ -1,0 +1,27 @@
+﻿Build started 1/29/2014 9:35:25 AM.
+     1>Project "C:\Users\100690885\Dropbox\School\Semester 4\DESN2017 - Game Dev II\Assignment2 - Defendorf\DESN2013_DeWolfe_M_Asg2_m1\DESN2013_DeWolfe_M_Asg2_m1\DESN2013_DeWolfe_M_Asg2_m1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>Source.cpp(345): warning C4018: '<' : signed/unsigned mismatch
+     1>Source.cpp(347): warning C4018: '<' : signed/unsigned mismatch
+     1>Source.cpp(414): warning C4018: '<' : signed/unsigned mismatch
+     1>Source.cpp(426): warning C4018: '<' : signed/unsigned mismatch
+     1>Source.cpp(429): warning C4018: '<' : signed/unsigned mismatch
+     1>Source.cpp(432): warning C4018: '<' : signed/unsigned mismatch
+     1>Source.cpp(454): warning C4018: '<' : signed/unsigned mismatch
+     1>Source.cpp(457): warning C4018: '<' : signed/unsigned mismatch
+     1>Source.cpp(460): warning C4018: '<' : signed/unsigned mismatch
+     1>Source.cpp(547): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : see declaration of 'sprintf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\100690885\Dropbox\School\Semester 4\DESN2017 - Game Dev II\Assignment2 - Defendorf\DESN2013_DeWolfe_M_Asg2_m1\Release\DESN2013_DeWolfe_M_Asg2_m1.exe" /INCREMENTAL:NO /NOLOGO glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\100690885\Dropbox\School\Semester 4\DESN2017 - Game Dev II\Assignment2 - Defendorf\DESN2013_DeWolfe_M_Asg2_m1\Release\DESN2013_DeWolfe_M_Asg2_m1.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\100690885\Dropbox\School\Semester 4\DESN2017 - Game Dev II\Assignment2 - Defendorf\DESN2013_DeWolfe_M_Asg2_m1\Release\DESN2013_DeWolfe_M_Asg2_m1.lib" /MACHINE:X86 /SAFESEH Release\Source.obj
+         Generating code
+     1>c:\users\100690885\dropbox\school\semester 4\desn2017 - game dev ii\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\projectile.h(76): warning C4715: 'Projectile::Travel' : not all control paths return a value
+         Finished generating code
+         DESN2013_DeWolfe_M_Asg2_m1.vcxproj -> C:\Users\100690885\Dropbox\School\Semester 4\DESN2017 - Game Dev II\Assignment2 - Defendorf\DESN2013_DeWolfe_M_Asg2_m1\Release\DESN2013_DeWolfe_M_Asg2_m1.exe
+     1>Done Building Project "C:\Users\100690885\Dropbox\School\Semester 4\DESN2017 - Game Dev II\Assignment2 - Defendorf\DESN2013_DeWolfe_M_Asg2_m1\DESN2013_DeWolfe_M_Asg2_m1\DESN2013_DeWolfe_M_Asg2_m1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.57

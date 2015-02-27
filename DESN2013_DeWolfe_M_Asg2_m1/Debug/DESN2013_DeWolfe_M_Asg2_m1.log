@@ -1,0 +1,47 @@
+﻿Build started 2/20/2014 11:21:56 AM.
+     1>Project "C:\Users\100690885\Desktop\Assignment2 - Defendorf\DESN2013_DeWolfe_M_Asg2_m1\DESN2013_DeWolfe_M_Asg2_m1\DESN2013_DeWolfe_M_Asg2_m1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Iglut.lib /Iglu.lib /Igl.lib /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\score.h(107): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\score.h(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\score.h(119): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\score.h(120): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\visualtext.h(37): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\nonplayercharacters.h(141): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\source.cpp(22): warning C4005: 'RADARWIDTH' : macro redefinition
+                 c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\character.h(4) : see previous definition of 'RADARWIDTH'
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\source.cpp(23): warning C4005: 'RADARHEIGHT' : macro redefinition
+                 c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\character.h(5) : see previous definition of 'RADARHEIGHT'
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\source.cpp(24): warning C4005: 'RADARX' : macro redefinition
+                 c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\character.h(6) : see previous definition of 'RADARX'
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\source.cpp(25): warning C4005: 'RADARY' : macro redefinition
+                 c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\character.h(7) : see previous definition of 'RADARY'
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\source.cpp(569): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\source.cpp(575): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\source.cpp(672): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\source.cpp(678): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\source.cpp(773): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\source.cpp(774): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\source.cpp(792): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\source.cpp(818): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\source.cpp(840): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\source.cpp(924): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\source.cpp(927): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\source.cpp(1115): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\player.h(128): warning C4715: 'Player::IsHit' : not all control paths return a value
+     1>c:\users\100690885\desktop\assignment2 - defendorf\desn2013_dewolfe_m_asg2_m1\desn2013_dewolfe_m_asg2_m1\nonplayercharacters.h(198): warning C4715: 'Lander::IsColliding' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\100690885\Desktop\Assignment2 - Defendorf\DESN2013_DeWolfe_M_Asg2_m1\Debug\DESN2013_DeWolfe_M_Asg2_m1.exe" /INCREMENTAL /NOLOGO glut32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\100690885\Desktop\Assignment2 - Defendorf\DESN2013_DeWolfe_M_Asg2_m1\Debug\DESN2013_DeWolfe_M_Asg2_m1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\100690885\Desktop\Assignment2 - Defendorf\DESN2013_DeWolfe_M_Asg2_m1\Debug\DESN2013_DeWolfe_M_Asg2_m1.lib" /MACHINE:X86 Debug\Source.obj
+         DESN2013_DeWolfe_M_Asg2_m1.vcxproj -> C:\Users\100690885\Desktop\Assignment2 - Defendorf\DESN2013_DeWolfe_M_Asg2_m1\Debug\DESN2013_DeWolfe_M_Asg2_m1.exe
+     1>Done Building Project "C:\Users\100690885\Desktop\Assignment2 - Defendorf\DESN2013_DeWolfe_M_Asg2_m1\DESN2013_DeWolfe_M_Asg2_m1\DESN2013_DeWolfe_M_Asg2_m1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.09
